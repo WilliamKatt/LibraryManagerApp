@@ -1,0 +1,5 @@
+E:\ASP.NET课堂练习\图书管理项目\LibraryManagerApp\LM.Common\bin\Debug\LM.Common.dll
+E:\ASP.NET课堂练习\图书管理项目\LibraryManagerApp\LM.Common\bin\Debug\LM.Common.pdb
+E:\ASP.NET课堂练习\图书管理项目\LibraryManagerApp\LM.Common\obj\Debug\LM.Common.csprojResolveAssemblyReference.cache
+E:\ASP.NET课堂练习\图书管理项目\LibraryManagerApp\LM.Common\obj\Debug\LM.Common.dll
+E:\ASP.NET课堂练习\图书管理项目\LibraryManagerApp\LM.Common\obj\Debug\LM.Common.pdb

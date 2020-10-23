@@ -1,0 +1,11 @@
+E:\ASP.NET课堂练习\图书管理项目\LibraryManagerApp\LM.BLL\bin\Debug\LM.BLL.dll
+E:\ASP.NET课堂练习\图书管理项目\LibraryManagerApp\LM.BLL\bin\Debug\LM.BLL.pdb
+E:\ASP.NET课堂练习\图书管理项目\LibraryManagerApp\LM.BLL\bin\Debug\LM.Common.dll
+E:\ASP.NET课堂练习\图书管理项目\LibraryManagerApp\LM.BLL\bin\Debug\LM.DAL.dll
+E:\ASP.NET课堂练习\图书管理项目\LibraryManagerApp\LM.BLL\bin\Debug\LM.Model.dll
+E:\ASP.NET课堂练习\图书管理项目\LibraryManagerApp\LM.BLL\bin\Debug\LM.Common.pdb
+E:\ASP.NET课堂练习\图书管理项目\LibraryManagerApp\LM.BLL\bin\Debug\LM.DAL.pdb
+E:\ASP.NET课堂练习\图书管理项目\LibraryManagerApp\LM.BLL\bin\Debug\LM.Model.pdb
+E:\ASP.NET课堂练习\图书管理项目\LibraryManagerApp\LM.BLL\obj\Debug\LM.BLL.csprojResolveAssemblyReference.cache
+E:\ASP.NET课堂练习\图书管理项目\LibraryManagerApp\LM.BLL\obj\Debug\LM.BLL.dll
+E:\ASP.NET课堂练习\图书管理项目\LibraryManagerApp\LM.BLL\obj\Debug\LM.BLL.pdb
